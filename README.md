@@ -1,4 +1,4 @@
-# Quasar App (cutie)
+# Quasar App 
 
 A Quasar Project
 
